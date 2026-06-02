@@ -1,6 +1,6 @@
 # Vulkan C++ 示例和演示
 
-一个全面的开源 C++ 示例集合，用于 [Vulkan](https://www.vulkan.org)，即 Khronos 推出的底层图形与计算 API。
+一个全面的开源 C++ 示例集合，用于 [Vulkan](https://www.vulkan.org)，即 Khronos 推出的底层图形与计算 API(https://github.com/SaschaWillems/Vulkan)。
 
 [![捐赠](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BHXPMV6ZKPH9E)
 
