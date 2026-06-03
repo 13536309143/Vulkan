@@ -51,7 +51,7 @@ Khronos 已经公开了官方 Vulkan Samples 仓库（[新闻稿](https://www.kh
 本仓库包含用于外部依赖和资源的子模块，因此全新克隆时需要递归克隆：
 
 ```sh
-git clone --recursive https://github.com/SaschaWillems/Vulkan.git
+git clone --recursive https://github.com/13536309143/Vulkan.git
 ```
 
 已有仓库可以手动更新：
